@@ -13,3 +13,5 @@ Hello, GitHUb.
 asdlcbal
 
 ＝＝＝medit＝＝＝
+こんにちは
+競合が起きるか分からん
